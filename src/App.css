@@ -1,0 +1,41 @@
+.QuizMain{
+  margin: 30px auto 0;
+  height: 590px;
+  padding: 20px 20px;
+  width: 500px;
+  background-color: rgb(178, 240, 231);
+  border: 2px solid rgb(12, 12, 12);
+}
+
+.heading{
+  display: flex;
+
+}
+
+.h-one{
+  flex: 2;
+   font-weight: bold;
+  font-size: 12px;
+}
+.h-two{
+  flex: 7;
+  text-align: center;
+  color: rgb(233, 217, 129);
+  
+}
+.h-three{
+  flex: 2;
+  font-weight: bold;
+  font-size: 12px;
+  
+}
+
+.formdata{
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.options{
+  padding: 1px;
+}
